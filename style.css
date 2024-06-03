@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor01{
+    height: 70vh;
+    width: 70%;
+    margin: 0px auto;
+    background-color: rebeccapurple;
+    margin-top: 5%;
+   
+}
+img{
+    max-width: 100%;
+}
